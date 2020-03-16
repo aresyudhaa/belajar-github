@@ -3,6 +3,7 @@ public class HitungPembelian{
  public static void main(String [] args){
   Scanner scan = new Scanner (System.in);
   
+  
   //Masukan tipe Data
   String nama_barang;
   int jml_barang, harga_satuan, total_harga, diskon, total_bayar;
